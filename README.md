@@ -4,9 +4,9 @@ Project Name
 
 Author's Details
 
-Name:Amsal Fitsum
+Name: Amsal Fitsum
 
-Email:amsalfessha21@gmail.com
+Email: amsalfessha21@gmail.com
 
 Tel: +251961046155
 
